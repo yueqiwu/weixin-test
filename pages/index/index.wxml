@@ -1,0 +1,1 @@
+<view class="content"><view class="welcom-text"><text>欢迎</text></view><button type="primary" size="mini" open-type="getUserInfo" data-event-opts="{{[['getuserinfo',[['saveUserInfo',['$event']]]]]}}" bindgetuserinfo="__e">开启小程序之旅</button></view>
